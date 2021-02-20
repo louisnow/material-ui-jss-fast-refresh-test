@@ -2,6 +2,8 @@
 
     yarn start
 
+Update: Upgrading to Webpack 5 fixes the problem, see this [branch](https://github.com/louisnow/material-ui-jss-fast-refresh-test/tree/webpack5)
+
 Material UI with [it's JSS][1] are being used. The repo is based off the fast refresh [example here][4]
 
 ```
