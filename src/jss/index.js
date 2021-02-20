@@ -1,2 +1,2 @@
-export { default as Astyle } from "./a";
-export { default as Bstyle } from "./b";
+export { default as astyle } from "./a";
+export { default as bstyle } from "./b";
