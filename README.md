@@ -2,7 +2,7 @@
 
     yarn start
 
-Using webpack 5, the
+Using webpack 5, the problem disappears
 
 Material UI with [it's JSS][1] are being used. The repo is based off the fast refresh [example here][4]
 
