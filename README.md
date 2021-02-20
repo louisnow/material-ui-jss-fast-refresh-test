@@ -2,6 +2,8 @@
 
     yarn start
 
+Using webpack 5, the
+
 Material UI with [it's JSS][1] are being used. The repo is based off the fast refresh [example here][4]
 
 ```
